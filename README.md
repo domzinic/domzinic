@@ -3,7 +3,7 @@
 
 Links:
 <br>
-[LinkedIn](https://ca.linkedin.com/in/dom-petrut-4761622b5) 
+[LinkedIn](https://ca.linkedin.com/in/dom-petrut-4761622b5/) 
 <br>
 [Email](mailto:dompetrut@gmail.com)
 
