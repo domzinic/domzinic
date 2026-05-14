@@ -3,6 +3,8 @@ I’m currently working on a portfolio website :)
 
 Links:
 <br>
+[Personal Website](dompetrut.com)
+<br>
 [LinkedIn](https://ca.linkedin.com/in/dom-petrut-4761622b5/) 
 <br>
 [Email](mailto:dompetrut@gmail.com)
