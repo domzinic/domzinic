@@ -3,7 +3,7 @@ I’m currently working on a portfolio website :)
 
 Links:
 <br>
-[Personal Website](dompetrut.com)
+[Personal Website](https://dompetrut.com)
 <br>
 [LinkedIn](https://ca.linkedin.com/in/dom-petrut-4761622b5/) 
 <br>
