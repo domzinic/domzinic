@@ -1,5 +1,10 @@
 ## Hi there!
-🔭 I’m currently working on some projects
+🔭 I’m currently working on a portfolio website
+
+Links:
+[LinkedIn](https://ca.linkedin.com/in/dom-petrut-4761622b5)
+[Email](mailto:dompetrut@gmail.com)
+
 <!--
 **domzinic/domzinic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
