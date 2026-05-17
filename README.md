@@ -1,5 +1,5 @@
 ## Hi there!
-I’m currently working on a portfolio website, and learning manim to make math videos :)
+I’m currently working on a portfolio website and learning manim to make math videos :)
 
 Links:
 <br>
